@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densityDpi=device-dpi" />
+    <title>DB.Card</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/barfiller.css">
+    <link rel="stylesheet" href="css/venobox.min.css">
+    <link rel="stylesheet" href="css/select2.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+    <!--==========================
+           MENU PART START
+    ===========================-->
+    <nav class="navbar navbar-expand-lg main_menu user_menu1">
+        <div class="container p-0">
+            <a class="single_user_img" href="#">
+                <img src="images/brand_1.png" alt="DB.Card">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="far fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="user_details.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="user_about.html">about</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="user_service.html">services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="user_portfolio.html">portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="user_gallery.html">gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="user_blog.html">blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="user_contact.html"> contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--==========================
+           MENU PART END
+    ===========================-->
+
+
+
+    <!--==========================
+        PHOTO GALLERY PART START
+    ===========================-->
+    <section id="photo_gallery">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 m-auto text-center">
+                    <div class="heading_area">
+                        <h3 class="small_heading"> photo gallery</h3>
+                        <h2 class="medium_heading">Our photo gallery</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="portfolio_filter wow fadeInUp">
+                        <button class="active" data-filter="*">ALL</button>
+                        <button  data-filter=".design">DESIGN</button>
+                        <button  data-filter=".dev">DEVELOPEMENT</button>
+                        <button  data-filter=".word">WORDPRESS</button>
+                    </div>
+                </div>
+            </div>
+            <div class="row grid">
+             <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 dev">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_1.jpg">
+                                <img src="images/portfolio_1.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Branding</h5>
+                        <h4>Studio Feixen</h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 word design">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_2.jpg">
+                                <img src="images/portfolio_2.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Branding</h5>
+                        <h4>Medical App</h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 dev">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_3.jpg">
+                                <img src="images/portfolio_3.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Branding</h5>
+                        <h4>Marleigh Culver</h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 design">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_4.jpg">
+                                <img src="images/portfolio_4.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Devolopment</h5>
+                        <h4>Buzzworthy Studio</h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 word dev">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_5.jpg">
+                                <img src="images/portfolio_5.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Devolopment</h5>
+                        <h4>Robin Mastromariono</h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 word design">
+                    <div class="portfolio_item text-center">
+                        <div class="single_img ">
+                            <a class="venobox" data-gall="gallery01" href="images/portfolio_6.jpg">
+                                <img src="images/portfolio_6.jpg" alt="gallery1" class="img-fluid w-100">
+                                <span><i class="fal fa-plus"></i></span>
+                            </a>
+                        </div>
+                        <h5>Devolopment</h5>
+                        <h4>Robin Mastromariono</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--==========================
+        PHOTO GALLERY PART END
+    ===========================-->
+
+
+    <!--==========================
+        VIDEO GALLERY PART START
+    ===========================-->
+    <section id="video_gallery">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 m-auto text-center">
+                    <div class="heading_area">
+                        <h3 class="small_heading"> video gallery</h3>
+                        <h2 class="medium_heading">Our video gallery</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="video_menu">
+                        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                              <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">design</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                              <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">developement</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                              <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">wordpress</button>
+                            </li>
+                          </ul>
+                          <div class="tab-content" id="pills-tabContent">
+                            <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-right">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_1.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-up">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_2.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-left">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_3.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-right">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_4.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-up">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_5.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4" data-aos="fade-left">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_1.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_1.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_2.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_3.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4 pro">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_4.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_5.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_1.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_2.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6 col-md-4 col-lg-4">
+                                        <div class="portfolio_item video_item text-center">
+                                            <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/7EHnQ0VM4KY">
+                                                <img src="images/video_3.jpg" alt="gallery1" class="img-fluid w-100">
+                                                <i class=" fas fa-play"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--==========================
+        VIDEO GALLERY PART END
+    ===========================-->
+
+
+    
+    <!--===========USER FOOTER START=============-->
+    <div class="user_footer">
+        <div class="user_footer_bottom only_mar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                       <div class="user_footer_link">
+                        <ul>
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                        <p>&#64; 2021 <a href="#">DB.Card</a> All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--=============USER FOOTER END==============-->
+    
+    
+    <!--=============SCROLL BTN==============-->
+    <div class="scroll_btn">
+        <i class="fas fa-chevron-up"></i>
+    </div>  
+    <!--=============SCROLL BTN==============-->
+
+
+
+    <!--jquery library js-->
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <!--bootstrap js-->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <!--font-awesome js-->
+    <script src="js/Font-Awesome.js"></script>
+    <!--slick js-->
+    <script src="js/slick.min.js"></script>
+    <!--barfiller js-->
+    <script src="js/jquery.barfiller.js"></script>
+    <!--venobox js-->
+    <script src="js/venobox.min.js"></script>
+    <!--counter js-->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.countup.min.js"></script>
+    <!--nice select js-->
+    <script src="js/select2.min.js"></script>
+    <!--aos js-->
+    <script src="js/aos.js"></script>
+    <!--isotope js-->
+    <script src="js/isotope.pkgd.min.js"></script>
+
+    <!--main/custom js-->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

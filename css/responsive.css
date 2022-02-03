@@ -1,0 +1,4538 @@
+@media (min-width: 1400px){
+
+.banner_text {
+	color: #fff;
+	margin-top: 50px;
+} 
+.work_text {
+	margin-top: 42px;
+} 
+    
+.user_2_bottom {
+	margin-left: 20px;
+}  
+    
+.user_testi_img img {
+	margin-top: 15px;
+	margin-left: 17px;
+}  
+    
+.user_about_2 {
+	padding-top: 85px !important;
+	padding-bottom: 95px !important;
+}
+    
+.user_about_3 {
+	padding: 100px 0px !important;
+}    
+   
+.service_2 {
+	padding-top: 0;
+}   
+  
+.review_page {
+	padding-top: 100px !important;
+}  
+    
+#user_about {
+	padding-top: 100px;
+	padding-bottom: 0;
+}
+      
+.about_pad {
+	padding: 100px !important;
+}  
+   
+.right_user_2_full .right_img_area {
+	width: 37%;
+}  
+  
+.side_menu_2 {
+	width: 120px !important;
+}   
+    
+.side_menu .side_menu_link {
+	margin-left: 48px;
+}  
+
+
+.card_img .sign {
+	width: 120px;
+	display: block;
+	margin: 20px auto 30px;
+}
+
+.portfolio_filter {
+	margin-top: 35px;
+}
+
+#user_details {
+	padding: 100px 0px 0px 0px;
+}
+    
+}/*========================*/
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+.user_2_bottom {
+	margin-left: 5px;
+}
+    
+.banner_img .carcle_2 {
+	left: -70px;
+}
+       
+.user_about_2 {
+	padding-top: 85px !important;
+	padding-bottom: 95px !important;
+}
+    
+.user_about_3 {
+	padding: 100px 0px !important;
+}   
+    
+#user_resume .heading_area {
+	margin-bottom: 15px;
+}
+    
+.resume_area .single_heading {
+	margin-top: 40px;
+}  
+    
+.user_counter h4 {
+	font-size: 17px;
+}
+    
+ #user_blog .single_blog h4 {
+	font-size: 15px;
+}  
+    
+.user_soingle_input {
+	width: 100%;
+} 
+    
+    
+.service_2 {
+	padding-top: 0;
+}   
+    
+    
+.review_page {
+	padding-top: 100px !important;
+} 
+    
+    
+#user_about {
+	padding-top: 100px;
+}
+    
+    
+.about_pad {
+	padding: 100px !important;
+}  
+   
+#user_exp_skill {
+	padding: 0;
+}   
+    
+.user_service {
+	padding-top: 100px;
+}
+    
+#bar4 {
+	margin-bottom: 0;
+}
+    
+#experience {
+	padding: 100px 0px 0px 0px;
+} 
+    
+ #portfolio {
+	padding-top: 100px;
+}  
+
+.contact_box_icon {
+	padding: 35px 28px;
+}
+
+.portfolio_filter {
+	margin-top: 35px;
+}
+
+#user_details {
+	padding: 100px 0px 0px 0px;
+}
+
+.user_area {
+	padding: 30px;
+}
+
+    
+}/*========================*/
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    
+/******************************
+       HOME PAGE START 
+*******************************/ 
+.main_menu li a {
+	font-size: 14px;
+    margin: 0px 4px;
+}
+
+.banner_text h1 {
+	font-size: 50px;
+} 
+    
+.banner_img .carcle_2 {
+	left: -70px;
+}
+    
+.work_img {
+	margin-top: 45px;
+}  
+.medium_heading {
+	font-size: 28px;
+}  
+    
+.single_card h4 {
+	font-size: 18px;
+}
+    
+#profile_part .heading_area {
+	margin-bottom: 70px;
+}
+
+#pricing_part .nav-tabs {
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 40px;
+	margin-top: 15px;
+}
+
+.clients_text {
+	margin-left: 55px;
+	margin-top: 0;
+}
+       
+.clients_text p {
+	margin: 20px 0px 23px 0px;
+} 
+    
+.clients_text h3 {
+	margin: 23px 0px 16px 0px;
+}  
+     
+.clients_img {
+	padding: 90px 0px;
+}
+    
+#testimonial .slick-dots {
+	left: 145%;
+	bottom: 115px;
+}    
+
+.single_blog h4 {
+	font-size: 15px;
+}
+
+footer {
+	background-position: left;
+	padding-top: 110px;
+} 
+    
+.footer_text p {
+	font-size: 14px;
+}  
+       
+/******************************
+       HOME PAGE END 
+*******************************/
+    
+    
+
+.subs_text h3 {
+	margin-bottom: 20px;
+}
+
+    
+.service_2 {
+	padding-top: 0;
+}
+    
+    
+/***********************
+ BLOG DETAILS PAGE START 
+************************/   
+.main_blog_text .top_row span {
+	font-size: 12px;
+}  
+    
+.blog_business img {
+	margin-right: 20px;
+	width: 200px;
+} 
+    
+.blog_business h4 {
+	padding-top: 0;
+}   
+    
+.blog_business p {
+	font-size: 13px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+} 
+    
+.blog_business ul li {
+	font-size: 14px;
+} 
+    
+.blockquot p {
+	font-size: 13px;
+}  
+    
+.share_link li a {
+	margin-bottom: 20px;
+} 
+    
+.comment_input .input_1, .comment_input .input_2, .comment_input .input_3, .comment_input textarea {
+	margin-top: 30px;
+	width: 100% !important;
+}   
+ 
+.comment_input .form-check label {
+	font-size: 14px;
+}   
+    
+/************************
+    BLOG DETAILS PAGE END 
+*************************/    
+    
+    
+    
+/************************
+    PRICING PAGE START 
+*************************/ 
+.member_price {
+	padding: 22px 25px 20px 25px;
+} 
+    
+.member_price p {
+	font-size: 12px;
+    font-weight: 500;
+}  
+/************************
+    PRICING PAGE END 
+*************************/   
+    
+    
+    
+/************************
+ USER DETAILS PAGE START 
+*************************/
+#user_about {
+	padding: 0;
+	padding-top: 100px;
+}
+    
+.about_pad {
+	padding: 100px 0px !important;
+}
+/************************
+ USER DETAILS PAGE END 
+*************************/  
+    
+   
+    
+    
+/************************
+  USER 2 START 
+*************************/ 
+.user2_topbar .topbar_tab {
+	margin-right: 10px;
+	padding: 5px 10px;
+	width: 17%;
+	float: left;
+}
+    
+.topbar_tab p {
+	font-size: 12px;
+} 
+    
+.topbar_tab .sidebar_tab {
+	padding: 6px 0px;
+	width: 100%;
+}  
+    
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	font-size: 13px;
+} 
+    
+#user_2 .select2-container--default .select2-selection--single {
+	padding: 8px 7px;
+}  
+    
+.right_user_2_full .user_2_bottom li {
+	margin: 0px 10px;
+	margin-top: 15px;
+}
+    
+.user_2_bottom .read_btn {
+	font-size: 14px;
+}  
+    
+.right_user_2_full .user_2_bottom {
+	margin-top: 15px;
+	margin-left: 0;
+}  
+    
+.user_2_bottom {
+	margin-left: 30px;
+}  
+/************************
+   USER 2 END 
+*************************/  
+    
+    
+    
+/***********************
+  USER DETAILS 2 START
+************************/ 
+.user_text_2 p {
+	font-size: 13px;
+	margin-top: 15px;
+	margin-bottom: 18px;
+}    
+   
+.single_bar {
+	margin-top: 20px;
+} 
+    
+.service_2 .single_service h5 {
+	color: #07123b;
+	font-size: 16px;
+}  
+    
+.single_service p {
+	font-size: 14px;
+}  
+    
+.single_exp h3 {
+	font-size: 18px;
+}   
+    
+.single_review_2 p {
+	font-size: 14px;
+} 
+    
+.single_blog span {
+	font-size: 12px;
+	margin-right: 15px;
+}   
+    
+    
+/***********************
+  USER DETAILS 2 END
+************************/ 
+    
+    
+    
+    
+    
+    
+/***********************
+  USER DETAILS 3 START
+************************/ 
+    
+/*===================
+  USER BANNER START
+=====================*/
+.user_banner h1 {
+	font-size: 45px;
+}
+    
+.user_banner p {
+	font-size: 25px;
+}  
+/*===================
+  USER BANNER END
+=====================*/  
+    
+
+    
+/*===================
+  USER ABOUT START
+=====================*/
+.user_about_area p {
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+    
+.user_about_2 {
+	padding-top: 85px !important;
+	padding-bottom: 95px !important;
+}  
+    
+.user_about_3 {
+	padding: 100px 0px !important;
+} 
+    
+.user_counter h4 {
+	font-size: 15px;
+}     
+/*===================
+  USER ABOUT END
+=====================*/  
+    
+    
+        
+/*===================
+  USER SERVICE START
+=====================*/
+.user_single_ser .user_icon i {
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 40px;
+} 
+    
+.user_content p {
+	font-size: 14px;
+}      
+/*===================
+  USER SERVICE END
+=====================*/  
+    
+    
+    
+/*===================
+  USER RESUME START
+=====================*/
+#user_resume .heading_area {
+	margin-bottom: 25px;
+}
+    
+.resume_area .single_heading {
+	font-size: 30px;
+	font-weight: 600;
+	text-transform: capitalize;
+	color: #07123b;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 40px;
+}
+/*===================
+  USER RESUME END
+=====================*/  
+
+    
+    
+    
+/*===================
+ USER TESTMONIAL START
+=====================*/
+    
+.user_testi_img {
+	width: 25%;
+	margin-right: 30px;
+} 
+  
+.user_testi_img img {
+	width: 170px;
+	height: 170px;
+	margin-top: 50px;
+}   
+   
+.user_testi_img .quot_top {
+	right: 20px;
+} 
+    
+.user_testi_img .quot_bott {
+	bottom: -35px;
+}
+    
+.user_clients_text p {
+	margin-top: 20px;
+	margin-bottom: 25px;
+}   
+    
+/*===================
+ USER TESTMONIAL END
+=====================*/      
+    
+    
+    
+    
+    
+/*===================
+ USER BLOG START
+=====================*/
+#user_blog {
+	padding-bottom: 55px;
+} 
+      
+#user_blog .single_blog {
+	margin-bottom: 30px;
+} 
+/*===================
+  USER BLOG END
+=====================*/      
+    
+    
+    
+/*===================
+USER CONTACT START
+=====================*/
+    
+.user_soingle_input {
+	width: 100%;;
+}
+    
+.user_contact_add {
+	padding-top: 62px;
+} 
+    
+/*===================
+USER CONTACT END
+=====================*/
+    
+    
+.resume_column h5 {
+	font-size: 16px;
+}
+    
+.review_page {
+	padding-top: 100px !important;
+}
+    
+/***********************
+  USER DETAILS 3 END
+************************/      
+
+
+
+
+.contact_box_icon {
+	width: 23%;
+	padding: 35px 15px;
+}
+
+.contact_box_icon i {
+	font-size: 40px;
+}
+
+.contact_box_text {
+	width: 77%;
+	padding: 0px 15px;
+}
+
+.contact_box_text a, .contact_box_text p {
+	font-size: 18px;
+}
+
+.portfolio_filter {
+	margin-top: 35px;
+}
+
+#user_details {
+	padding: 100px 0px 0px 0px;
+}
+.user_area {
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+}/*========================*/
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+/******************************
+       HOME PAGE START 
+*******************************/   
+/*===================
+    MENU START
+=====================*/
+.main_menu {
+	height: 60px;
+	border-bottom: 1px solid #2046DA;
+}
+    
+.right_menu {
+	justify-content: center;
+	width: 100%;
+} 
+    
+.main_menu .navbar-brand {
+	margin-left: 15px;
+} 
+    
+.main_menu .navbar-toggler {
+	outline: 0;
+	margin-right: 15px;
+	border: 1px solid #2046DA;
+	padding: 3px 7px 5px 7px;
+	color: #2046DA;
+	border-radius: 3px;
+}
+    
+.navbar-toggler:focus {
+	box-shadow: none;
+}  
+    
+.main_menu #navbarSupportedContent {
+	background: #fff;
+	padding: 15px 0px;
+	text-align: center;
+	margin-top: 8px;
+}
+.dropdown-menu.show {
+	display: block;
+	margin-right: 25px;
+}  
+    
+.dropdown-menu.show {
+	margin-left: -107px;
+}    
+/*===================
+    MENU END
+=====================*/
+    
+    
+    
+/*===================
+    BANNER START
+=====================*/ 
+#banner {
+	padding: 80px 0px 90px 0px;
+}
+    
+.banner_text {
+	text-align: center;
+} 
+    
+.banner_text h1 {
+	font-size: 40px;
+}
+    
+.banner_text p {
+	font-size: 18px;
+	margin: 24px 0px 36px 0px;
+}
+    
+.common_btn {
+	font-size: 14px;
+} 
+    
+.common_btn_1 {
+	font-size: 13px;
+	padding: 11px 20px;
+}
+    
+.banner_text .common_btn {
+	margin-bottom: 20px;
+	padding: 10px 20px;
+}
+    
+.banner_img {
+	margin-top: 20px;
+}
+    
+.banner_img .carcle_2 {
+	left: -10px;
+}  
+    
+/*===================
+    BANNER END
+=====================*/  
+    
+    
+    
+/*===================
+    WORK START
+=====================*/ 
+#work_part {
+	padding: 80px 0px 96px 0px;
+}
+    
+.medium_heading {
+	font-size: 25px;
+	margin: 20px 0px 25px 0px;
+}
+    
+.work_img {
+	margin-top: 70px;
+}
+      
+.read_btn {
+	font-size: 14px;
+	padding: 8px 15px;
+}  
+    
+.work_text p {
+	font-size: 15px;
+	margin-bottom: 15px;
+	margin-top: -10px;
+}   
+/*===================
+    WORK END
+=====================*/  
+
+    
+            
+/*===================
+  PROFILE PART END
+=====================*/  
+#profile_part {
+	padding: 95px 0px 70px 0px;
+}  
+
+#profile_part .heading_area {
+	margin-bottom: 70px;
+}  
+/*===================
+  PROFILE PART END
+=====================*/  
+    
+  
+    
+/*===================
+  PRICING PART END
+=====================*/
+#pricing_part {
+	padding-bottom: 70px;
+}
+    
+#pricing_part .nav-tabs {
+	width: 60%;
+	margin: 0 auto;
+	margin-bottom: 70px;
+	margin-top: 15px;
+}
+    
+.single_price {
+	margin-bottom: 30px;
+}   
+/*===================
+  PRICING PART END
+=====================*/  
+
+        
+            
+/*===================
+  TESTIMONIAL PART END
+=====================*/ 
+#testimonial {
+	padding: 80px 0px 97px 0px;
+}  
+    
+.clients_text {
+	margin-left: 30px;
+	margin-top: 0px;
+}
+    
+.clients_text p {
+	margin: 20px 0px 23px 0px;
+}   
+  
+.clients_text h3 {
+	margin: 23px 0px 16px 0px;
+}   
+    
+.clients_img {
+	padding: 90px 0px;
+} 
+    
+.clients_img::after {
+	right: -25px;
+}  
+    
+#testimonial .slick-dots {
+	position: absolute;
+	bottom: -20px;
+	display: flex !important;
+	justify-content: center;
+	left: 50%;
+}
+    
+#testimonial .slick-dots li button {
+	width: 20px;
+	height: 5px;
+}    
+/*===================
+  TESTIMONIAL PART END
+=====================*/  
+    
+      
+            
+/*===================
+  BLOG PART END
+=====================*/  
+#blog_part {
+	padding: 96px 0px 0px 0px;
+}
+    
+.blog_area {
+	margin-top: 15px;
+}   
+    
+.single_blog {
+	margin-top: 30px;
+	padding: 10px;
+}    
+    
+.single_blog h4 {
+	font-size: 18px;
+} 
+    
+.single_blog p {
+	font-size: 15px;
+} 
+    
+.single_blog span {
+	font-size: 12px;
+	margin-right: 8px;
+}
+/*===================
+  BLOG PART END
+=====================*/  
+
+    
+     
+/*===================
+  SUBSCRIBE PART START
+=====================*/     
+.subscribe_bg {
+	padding: 50px 0px 42px 0px;
+}  
+    
+.subs_text h3 {
+	margin-bottom: 20px;
+}   
+/*===================
+  SUBSCRIBE PART END
+=====================*/    
+     
+        
+            
+/*===================
+  FOOTER PART END
+=====================*/  
+ footer {
+	background-position: left;
+	padding-top: 74px;
+}  
+    
+.foot_mar {
+	padding-top: 237px;
+}
+  
+.footer_text {
+	margin-bottom: 40px;
+	display: block;
+	overflow: hidden;
+}  
+    
+footer h3 {
+	margin-bottom: 24px;
+}   
+
+.footer_bottom {
+	margin-top: 15px;
+}
+/*===================
+  FOOTER PART END
+=====================*/  
+/************************
+     HOME PAGE END 
+************************/ 
+    
+    
+    
+     
+/************************
+ USER DETAILS PAGE START 
+*************************/
+/*===================
+   BREADCRUMB START
+=====================*/  
+.bread_overlay {
+	padding: 63px 0px 50px 0px;
+}
+    
+    
+#breadcrumb_part h4 {
+	font-size: 25px;
+}
+    
+#breadcrumb_part nav {
+	margin-top: 20px;
+}  
+    
+#breadcrumb_part li {
+	font-size: 14px;
+}  
+    
+.breadcrumb-item + .breadcrumb-item::before {
+	padding-left: 6px;
+	padding-right: 15px;
+}    
+/*===================
+   BREADCRUMB END
+=====================*/ 
+    
+    
+        
+/*===================
+  USER DETAILS END
+=====================*/
+#user_details {
+	padding: 100px 0px 0px 0px;
+}
+    
+.user_text {
+	padding: 10px;
+	margin-top: 10px;
+}
+.user_line {
+	font-size: 15px;
+}
+    
+.user_line .user_bold {
+	width: 29.5%;
+}  
+      
+.user_line .user_lite {
+	margin-left: 7%;
+} 
+
+.user_area {
+	padding: 10px;
+}
+/*===================
+  USER DETAILS END
+=====================*/ 
+    
+    
+    
+/*===================
+   USER ABOUT START
+=====================*/
+#user_about {
+	padding-bottom: 90px;
+}
+    
+.about_img {
+	margin-top: 32px;
+}
+    
+.about_text {
+	margin-top: 0px;
+} 
+    
+.about_text_middel {
+	position: static;
+	transform: translate(0);
+}
+    
+.about_text p {
+	margin-top: 29px;
+}  
+    
+    
+.user_about_2 {
+	padding-top: 80px !important;
+}  
+    
+.user_about_3 {
+	padding-top: 100px !important;
+} 
+/*===================
+   USER ABOUT END
+=====================*/ 
+    
+        
+    
+/*===================
+ USER EXP_SKILL START
+=====================*/     #user_exp_skill {
+	padding: 0px 0px 70px 0px;
+}
+    
+.user_exp {
+	text-align: center;
+	margin-bottom: 30px;
+} 
+    
+.user_exp p span {
+	margin-bottom: 20px;
+} 
+    
+#user_exp_skill h4 {
+	text-align: center;
+} 
+    
+.barfiller {
+	margin-bottom: 25px;
+}   
+    
+    
+/*===================
+ USER EXP_SKILL END
+=====================*/ 
+        
+    
+    
+/*===================
+   SERVICE START
+=====================*/     
+#service .heading_area {
+	margin-bottom: 63px;
+}
+    
+.single_service {
+	padding: 15px;
+	text-align: center;
+    margin-bottom: 30px;
+} 
+    
+.single_service h5 {
+	font-size: 16px;
+}  
+    
+.single_service span {
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+	line-height: 80px;
+	margin: 0 auto;
+}  
+    
+.single_service p {
+	font-size: 15px;
+}
+/*===================
+   SERVICE END
+=====================*/ 
+       
+    
+    
+/*===================
+   EXPERIENCE START
+=====================*/     
+#experience {
+	padding: 48px 0px 70px 0px;
+}
+    
+#experience .heading_area {
+	margin-bottom: 46px;
+}   
+    
+.exp_text .read_btn {
+	font-size: 16px;
+	margin-top: 24px;
+} 
+  
+.single_exp h5 {
+	margin: 23px 0px 18px 0px;
+} 
+    
+.single_exp h3 {
+	font-size: 14px;
+}
+    
+.single_exp p {
+	font-size: 15px;
+}     
+/*===================
+   EXPERIENCE END
+=====================*/ 
+        
+    
+    
+/*===================
+  PORTFOLIO START
+=====================*/     
+#portfolio .heading_area {
+	margin-bottom: 70px;
+} 
+    
+.portfolio_item h4 {
+	font-size: 15px;
+} 
+/*===================
+  PORTFOLIO END
+=====================*/ 
+
+              
+    
+/*===================
+  REVIEW START
+=====================*/     
+#review {
+	padding-top: 50px;
+	padding-bottom: 43px;
+}
+    
+#review .heading_area {
+	margin-bottom: 55px;
+}  
+    
+.single_review i {
+	font-size: 30px;
+}   
+    
+.single_review p {
+	font-size: 14px;
+}    
+    
+#review .slick-dots {
+	display: flex !important;
+	justify-content: center;
+	left: 0;
+	bottom: -46px;
+}   
+    
+/*===================
+  REVIEW END
+=====================*/ 
+    
+     
+    
+/*===================
+  BLOG START
+=====================*/     
+    
+#blog_part .heading_area {
+	margin-bottom: 20px;
+}
+/*===================
+  BLOG END
+=====================*/ 
+
+            
+    
+    
+/*===================
+  GET IN TOUCH START
+=====================*/     
+#get_in_touch {
+	padding-bottom: 0;
+}
+    
+#get_in_touch .heading_area {
+	margin-bottom: 63px;
+} 
+    
+.ger_in_area input, 
+.ger_in_area textarea {
+	padding: 10px;
+	font-size: 14px;
+}  
+/*===================
+  GET IN TOUCH END
+=====================*/ 
+    
+/******************************
+    USER DETAILS PAGE END 
+******************************/ 
+    
+    
+
+        
+/******************************
+    BLOG DETAILS PAGE END 
+******************************/ 
+.card_img .user_img {
+	float: left;
+}  
+    
+.single_post .single_img {
+	width: 20%;
+}   
+    
+.blog_business img {
+	float: left;
+	margin-right: 40px;
+	width: 100%;
+	margin-bottom: 25px;
+} 
+    
+.tag_link li:nth-child(3) a, .tag_link li:nth-child(6) a {
+	margin-right: 10px;
+}  
+   
+.share_link li a {
+	margin-bottom: 20px;
+} 
+    
+.single_comment .comm_img {
+	width: 20%;
+}  
+    
+.comm_text {
+	width: 80%;
+} 
+    
+.comm_text p {
+	font-size: 14px;
+}   
+    
+.comment_input .input_1, .comment_input .input_2, .comment_input .input_3, .comment_input textarea {
+    width: 100%;
+	margin-top: 20px;
+}  
+   
+.recent_post {
+	padding: 15px;
+}  
+    
+.single_post .single_text {
+	width: 75%;
+} 
+    
+.single_post .single_text P {
+	font-size: 13px;
+}   
+  
+.single_post .single_text span {
+	font-size: 12px;
+}   
+    
+.blockquot p {
+	font-size: 13px;
+}
+    
+.blog_business ul li {
+	font-size: 12px;
+}    
+/******************************
+  BLOG DETAILS PAGE END 
+******************************/ 
+   
+    
+/***********************
+    FAQS PAGE START
+************************/ 
+#accordion .accordion-button.collapsed {
+	font-size: 12px;
+	font-weight: 600;
+}
+    
+#accordion .accordion-body {
+	font-size: 15px;
+}  
+    
+/***********************
+    FAQS PAGE END
+************************/
+    
+  
+    
+/***********************
+    LOGIN PAGE START
+************************/
+
+.login_form {
+	padding: 25px 30px 8px 30px;
+}   
+/***********************
+    LOGIN PAGE END
+************************/ 
+    
+   
+    
+/***********************
+  PRICING PAGE START
+************************/  
+.member_price {
+	margin-top: 30px;
+}
+    
+#member_pricing .price_btn {
+	margin-bottom: 35px;
+}   
+/***********************
+  PRICING PAGE END
+************************/ 
+    
+    
+    
+/***********************
+  REVIEW PAGE START
+************************/  
+.review_page {
+	padding-top: 100px !important;
+	padding-bottom: 45px !important;
+}   
+/***********************
+  REVIEW PAGE END
+************************/   
+    
+    
+    
+/***********************
+    USER PAGE START
+************************/    
+.sidebar_line {
+	padding: 10px;
+} 
+    
+.sidebar_line span {
+	font-size: 12px;
+}   
+    
+.select2-container .select2-selection--single .select2-selection__rendered {
+	font-size: 12px;
+} 
+    
+.sidebar_line input {
+	font-size: 12px;
+} 
+    
+#pagination {
+	display: block;
+}   
+    
+#pagination p {
+	text-align: center;
+	margin-bottom: 20px;
+} 
+   
+.pagination {
+	justify-content: center;
+}   
+/***********************
+    USER PAGE END
+************************/
+
+    
+    
+/***********************
+  USER 2 PAGE START
+************************/
+#user_2 .user_sidebar {
+	margin-top: 0;
+}  
+  
+.user2_topbar {
+	display: none;
+}   
+/***********************
+  USER 2 PAGE END
+************************/  
+    
+    
+    
+/***********************
+  USER DETAILS START
+************************/ 
+    
+/*===================
+   USER MENU 1 START
+=====================*/ 
+.user_menu1 .single_user_img img {
+	width: 45px;
+	height: 45px;
+	margin-left: 10px;
+	margin-top: 2px;
+}     
+    
+.user_menu1 .navbar-toggler {
+	margin-left: auto;
+	color: #fff;
+	border-color: #fff;
+}
+    
+.user_menu1 {
+	height: 60px;
+	border-bottom: 1px solid #fff;
+	width: 100%;
+	padding: 5px 0px 10px 0px;
+}
+    
+.user_menu1 #navbarSupportedContent {
+	background: #0077b6;
+	border-top: 1px solid #fff;
+	margin-top: 7px;
+}
+    
+.user_menu1 ul li {
+	margin-bottom: 10px;
+} 
+
+/*===================
+   USER MENU 1 START
+=====================*/ 
+     
+/***********************
+   USER DETAILS  END
+************************/  
+        
+
+         
+/***********************
+   USER DETAILS 2  END
+************************/  
+        
+    
+/*===================
+  USER MENU START
+=====================*/ 
+.side_menu_2 {
+	width: 75px !important;
+	padding: 10px 20px !important;
+	transform: scaleX(1) !important;
+	margin-left: -75px;
+} 
+    
+.side_menu_2 .user_img img {
+	width: 35px;
+	height: 35px;
+}  
+    
+.side_menu.side_menu_2.\.menu_slide.\.show_menu_2 {
+	margin-left: 0px;
+}     
+/*===================
+  USER MENU END
+=====================*/     
+    
+    
+    
+.service_2 {
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+    
+.experience_2 {
+	padding-bottom: 95px !important;
+}
+      
+.review_2 {
+	padding-top: 70px !important;
+}  
+    
+.single_bar {
+    margin-top: 30px;
+}    
+    
+/***********************
+   USER DETAILS 2  END
+************************/  
+        
+
+    
+    
+    
+/***********************
+  USER DETAILS 3 START
+************************/   
+   
+/*===================
+   USER MENU START
+=====================*/
+    
+.side_menu {
+	transform: scaleX(0);
+}  
+    
+.side_menu .close_icon {
+	opacity: 1;
+}  
+    
+.menu_icon {
+	top: 10px;
+	left: 10px;
+	border: 1px solid #fff;
+}   
+/*===================
+   USER MENU END
+=====================*/
+    
+    
+    
+/*===================
+  USER ABOUT START
+=====================*/     
+.user_about_area p {
+	font-size: 14px;
+	font-weight: 400;
+	color: #646464;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 20px;
+}
+  
+.user_counter h4 {
+	font-size: 14px;
+}    
+/*===================
+  USER ABOUT END
+=====================*/
+    
+    
+    
+.resume_column h5 {
+	font-size: 16px;
+}
+    
+    
+    
+/*===================
+ USER SERVICE START
+=====================*/ 
+.user_single_ser .user_icon i {
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+} 
+ .user_content p {
+	font-size: 14px;
+}   
+/*===================
+   USER SERVICE END
+=====================*/  
+    
+    
+    
+/*===================
+USER TESTMONIAL START
+=====================*/ 
+.user_testi_img img {
+	width: 150px;
+	height: 150px;
+	margin-top: 60px;
+}  
+    
+    
+.user_testi_img .quot_top {
+	font-size: 50px;
+	top: 40px;
+	right: 55px;
+}  
+    
+.user_testi_img .quot_bott {
+	font-size: 50px;
+	bottom: -32px;
+	left: 0px;
+}  
+   
+.user_clients_text p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}   
+/*===================
+USER TESTMONIAL END
+=====================*/  
+ 
+/***********************
+  USER DETAILS 3 END
+************************/    
+.center_text p {
+	font-size: 16px;
+}
+
+.center_text h3 {
+	font-size: 20px;
+}
+
+.contact_box {
+	margin-bottom: 30px;
+}
+
+.contact_box_icon {
+	padding: 38px 82px;
+}
+
+.portfolio_filter {
+	margin-top: 35px;
+}
+
+.pro_summery {
+	margin-top: 50px;
+}
+
+
+    
+}/*========================*/
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+/******************************
+       HOME PAGE START 
+*******************************/ 
+/*===================
+    MENU START
+=====================*/
+.main_menu {
+	height: 60px;
+	border-bottom: 1px solid #2046DA;
+}
+    
+.right_menu {
+	justify-content: center;
+	width: 100%;
+} 
+    
+.main_menu .navbar-brand {
+	margin-left: 15px;
+} 
+    
+.main_menu .navbar-toggler {
+	outline: 0;
+	margin-right: 15px;
+	border: 1px solid #2046DA;
+	padding: 3px 7px 5px 7px;
+	color: #2046DA;
+	border-radius: 3px;
+}
+    
+.navbar-toggler:focus {
+	box-shadow: none;
+}  
+    
+.main_menu #navbarSupportedContent {
+	background: #fff;
+	padding: 15px 0px;
+	text-align: center;
+	margin-top: 8px;
+}
+.dropdown-menu.show {
+	display: block;
+	margin-right: 25px;
+}  
+    
+.dropdown-menu.show {
+	margin-left: -107px;
+}    
+/*===================
+    MENU END
+=====================*/
+    
+
+    
+/*===================
+    BANNER START
+=====================*/ 
+#banner {
+	padding: 60px 0px 110px 0px;
+}
+    
+.banner_text {
+	text-align: center;
+} 
+    
+.banner_text h1 {
+	font-size: 35px;
+}
+    
+.banner_text p {
+	font-size: 17px;
+	margin: 24px 0px 36px 0px;
+} 
+    
+.common_btn {
+	font-size: 14px;
+} 
+ 
+.banner_text .common_btn{
+    margin-bottom: 20px;
+} 
+    
+.banner_img {
+	margin-top: 40px;
+} 
+    
+.banner_img .carcle_3 {
+	right: 0px;
+}   
+/*===================
+    BANNER END
+=====================*/    
+      
+    
+/*===================
+    WORK START
+=====================*/ 
+
+#work_part {
+	padding: 20px 0px 57px 0px;
+}   
+    
+.work_text {
+	margin-top: 40px;
+}  
+    
+.small_heading {
+	text-align: center;
+} 
+    
+.medium_heading {
+	font-size: 25px;
+	text-align: center;
+	margin: 20px 0px 25px 0px;
+}
+  
+.read_btn {
+	font-size: 14px;
+	padding: 8px 15px;
+}   
+/*===================
+    WORK END
+=====================*/    
+     
+    
+/*===================
+  CARD PART START
+=====================*/ 
+#blog_part {
+	padding: 57px 0px 0px 0px;
+	padding-bottom: 0 !important;
+} 
+    
+.card_area {
+	margin-top: 15px;
+}   
+    
+#card_part {
+	padding: 58px 0px 40px 0px;
+}  
+    
+/*===================
+  CARD PART END
+=====================*/    
+    
+      
+/*===================
+  PROFILE START
+=====================*/    
+ #profile_part {
+	padding: 60px 0px 30px 0px;
+}
+    
+#profile_part .heading_area {
+	margin-bottom: 40px;
+}  
+     
+/*===================
+  PROFILE END
+=====================*/    
+        
+     
+/*===================
+    PRICING  START
+=====================*/    
+#pricing_part {
+	padding-bottom: 30px;
+}   
+    
+#pricing_part .nav-tabs {
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 40px;
+}
+    
+#pricing_part .nav-tabs .nav-link {
+	font-size: 13px;
+} 
+    
+.single_price {
+	margin-bottom: 30px;
+}    
+/*===================
+    PRICING  END
+=====================*/    
+        
+
+      
+/*===================
+  TESTIMONIAL START
+=====================*/ 
+#testimonial {
+	padding: 60px 0px 90px 0px;
+}
+    
+.clients_img {
+	position: static;
+	width: 20%;
+	margin: 0 auto;
+	padding: 0;
+}
+ 
+.clients_text {
+	text-align: center;
+	margin: 0px 16px;
+	margin-top: 35px;
+}  
+    
+.clients_text h3 {
+	margin: 20px 0px 16px 0px;
+}  
+    
+#testimonial .slick-dots {
+	position: absolute;
+	left: 89%;
+	bottom: -35px;
+	display: flex !important;
+} 
+    
+#testimonial .slick-dots li button {
+	width: 15px;
+	height: 5px;
+}  
+/*===================
+  TESTIMONIAL END
+=====================*/    
+        
+    
+      
+/*===================
+  BLOG PART START
+=====================*/       
+#blog_part {
+	padding: 57px 0px 0px 0px;
+}  
+       
+.blog_area {
+	margin-top: -15px;
+}
+    
+.single_blog {
+	margin-top: 30px;
+} 
+    
+.single_blog p {
+	font-size: 14px;
+}  
+    
+.single_blog span {
+	font-size: 12px;
+	margin-right: 10px;
+}  
+    
+.single_blog h4 {
+	font-size: 14px;
+} 
+/*===================
+  BLOG PART END
+=====================*/    
+        
+    
+    
+/*===================
+  SUBSCRIBE PART START
+=====================*/ 
+#subscribe {
+	padding-top: 58px;
+}
+    
+.subscribe_bg {
+	padding: 30px;
+}
+    
+.subs_text h3 {
+	font-size: 18px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+}  
+    
+.subs_text h3::after {
+	top: 0px;
+}
+
+.subs_form form input {
+	padding: 10px 20px;
+}   
+    
+.subs_form form button {
+	padding: 8px 10px;
+}   
+/*===================
+  SUBSCRIBE PART END
+=====================*/    
+           
+    
+    
+    
+      
+/*===================
+    FOOTER   START
+=====================*/ 
+    
+.foot_mar {
+	padding-top: 135px;
+}
+    
+footer {
+	background: url(../images/small_footer_bg.png);
+	padding-top: 53px;
+	margin-top: 60px;
+}
+    
+footer h3 {
+	margin-bottom: 17px;
+	font-size: 17px;
+}
+    
+.footer_text {
+	margin-bottom: 40px;
+	overflow: hidden;
+} 
+    
+.footer_link li {
+	margin-bottom: 7px;
+}  
+   
+.footer_bottom p {
+	font-size: 14px;
+}   
+    
+.footer_bottom {
+	margin-top: 7px;
+	padding: 10px 0px;
+}
+
+/*===================
+FOOTER   END
+=====================*/    
+/******************************
+       HOME PAGE END 
+*******************************/
+     
+    
+    
+/******************************
+    USER DETAILS PAGE START 
+******************************/
+    
+/*===================
+   USER MENU 1 START
+=====================*/ 
+.user_menu1 .single_user_img img {
+	width: 45px;
+	height: 45px;
+	margin-left: 10px;
+	margin-top: 2px;
+}    
+    
+.user_menu1 .navbar-toggler {
+	margin-left: auto;
+	color: #fff;
+	border-color: #fff;
+}
+    
+.user_menu1 {
+	height: 60px;
+	border-bottom: 1px solid #fff;
+	width: 100%;
+	padding: 5px 0px 10px 0px;
+}
+    
+.user_menu1 #navbarSupportedContent {
+	background: #0077b6;
+	border-top: 1px solid #fff;
+	margin-top: 7px;
+}
+    
+.user_menu1 ul li {
+	margin-bottom: 10px;
+} 
+
+/*===================
+   USER MENU 1 START
+=====================*/  
+    
+    
+    
+/*===================
+   BREADCRUMB START
+=====================*/  
+ 
+.bread_overlay {
+	padding: 54px 0px 38px 0px;
+} 
+    
+#breadcrumb_part h4 {
+	font-size: 25px;
+}
+    
+#breadcrumb_part nav {
+	margin-top: 20px;
+}  
+    
+#breadcrumb_part li {
+	font-size: 14px;
+}  
+    
+.breadcrumb-item + .breadcrumb-item::before {
+	padding-left: 6px;
+	padding-right: 15px;
+}    
+    
+/*===================
+   BREADCRUMB END
+=====================*/ 
+    
+        
+/*===================
+  USER DETAILS START
+=====================*/
+#user_details {
+	padding: 60px 0px 30px 0px;
+}
+    
+.user_text {
+	padding: 10px;
+	margin-top: 10px;
+}
+.user_line {
+	font-size: 15px;
+}
+    
+.user_line .user_bold {
+	width: 20.5%;
+}
+    
+.user_line .user_lite {
+	margin-left: 4%;
+}  
+/*===================
+  USER DETAILS END
+=====================*/ 
+    
+    
+    
+/*===================
+   USER ABOUT START
+=====================*/ 
+.about {
+	padding: 10px 0px 60px 0px !important;
+}
+   
+.about .about_img {
+	margin-top: 30px;
+}   
+    
+#user_about {
+	padding: 0px 0px 0px 0px;
+}
+    
+.about_text {
+	margin-top: 45px;
+	text-align: center;
+} 
+    
+.about_text_middel {
+	position: static;
+	transform: translate(0);
+}
+    
+.about_text p {
+	margin-top: 29px;
+}  
+/*===================
+   USER ABOUT END
+=====================*/ 
+    
+
+    
+/*===================
+ USER EXP_SKILL START
+=====================*/       
+#user_exp_skill {
+	padding: 50px 0px 30px 0px;
+}
+    
+.user_exp {
+	text-align: center;
+	margin-bottom: 30px;
+} 
+    
+.user_exp p span {
+	margin-bottom: 20px;
+} 
+    
+#user_exp_skill h4 {
+	text-align: center;
+} 
+    
+.barfiller {
+	margin-bottom: 25px;
+}   
+/*===================
+ USER EXP_SKILL END
+=====================*/ 
+    
+    
+    
+/*===================
+   SERVICE START
+=====================*/     
+#service .heading_area {
+	margin-bottom: 33px;
+}
+    
+.single_service {
+	padding: 25px;
+	text-align: center;
+    margin-bottom: 30px;
+}  
+    
+.single_service span {
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+	line-height: 80px;
+	margin: 0 auto;
+}  
+    
+.single_service p {
+	font-size: 15px;
+}
+/*===================
+   SERVICE END
+=====================*/ 
+
+    
+    
+/*===================
+   EXPERIENCE START
+=====================*/     
+#experience {
+	padding: 30px 0px 50px 0px;
+} 
+    
+#experience .heading_area {
+	margin-bottom: -10px;
+}   
+    
+.exp_text .read_btn {
+	font-size: 16px;
+	margin-top: 24px;
+} 
+  
+.single_exp h5 {
+	margin: 23px 0px 18px 0px;
+} 
+    
+.single_exp h3 {
+	font-size: 16px;
+} 
+    
+.single_exp p {
+	font-size: 15px;
+}     
+/*===================
+   EXPERIENCE END
+=====================*/ 
+  
+    
+/*===================
+  PORTFOLIO START
+=====================*/     
+#portfolio .heading_area {
+	margin-bottom: 40px;
+} 
+/*===================
+  PORTFOLIO END
+=====================*/ 
+    
+
+/*===================
+  REVIEW START
+=====================*/     
+#review {
+	padding-top: 29px;
+	padding-bottom: 43px;
+}
+    
+#review .heading_area {
+	margin-bottom: 33px;
+}   
+    
+.single_review i {
+	font-size: 30px;
+}   
+    
+.single_review p {
+	font-size: 14px;
+}   
+
+.single_review {
+	padding: 10px 13px 5px 13px;
+} 
+    
+.single_review_2 img {
+	margin-top: -50px;
+}   
+    
+#review .slick-dots {
+	display: flex !important;
+	justify-content: center;
+	left: 0;
+	bottom: -46px;
+}   
+    
+/*===================
+  REVIEW END
+=====================*/ 
+
+    
+/*===================
+  BLOG START
+=====================*/     
+    
+#blog_part .heading_area {
+	margin-bottom: 20px;
+}
+/*===================
+  BLOG END
+=====================*/         
+    
+    
+/*===================
+  GET IN TOUCH START
+=====================*/     
+#get_in_touch {
+	padding-bottom: 0;
+	margin-top: 60px;
+}
+    
+#get_in_touch .heading_area {
+	margin-bottom: 34px;
+}  
+    
+.ger_in_area input, 
+.ger_in_area textarea {
+	padding: 10px;
+	font-size: 14px;
+}  
+    
+.user_contact {
+	padding-top: 0;
+}  
+    
+/*===================
+  GET IN TOUCH END
+=====================*/ 
+    
+/******************************
+    USER DETAILS PAGE END 
+******************************/  
+    
+    
+    
+    
+    
+    
+/***********************
+  BLOG PAGR START
+************************/
+#blog_page {
+	padding-top: 60px;
+}
+     
+#blog_page .heading_area {
+	margin-bottom: -30px;
+}   
+    
+.blog_riter img {
+	margin-right: 15px;
+} 
+
+/***********************
+  BLOG PAGR END
+************************/
+
+    
+   
+    
+    
+/***********************
+  BLOG DETAILS START
+************************/
+#blog_details {
+	padding-top: 60px;
+}
+    
+.blog_business img {
+	margin-bottom: 30px;
+	width: 170px;
+	margin-right: 20px;
+}
+    
+.main_blog_text .top_row span {
+	font-size: 12px;
+}  
+    
+.blog_business h4 {
+	padding-top: 0;
+} 
+    
+.blog_business p {
+	margin-top: 15px;
+	margin-bottom: 15px;
+} 
+    
+.blog_business ul li {
+	font-size: 13px;
+}  
+    
+.left_btn_area span {
+	font-size: 13px;
+	padding: 10px 15px;
+}
+    
+.share_blog h4 {
+	font-size: 18px;
+}
+    
+.share_link li a {
+	font-size: 13px;
+	padding: 5px 12px;
+	margin-bottom: 10px;
+}
+    
+.single_comment .comm_img {
+	width: 20%;
+}    
+    
+.single_comment .comm_img img {
+	width: 50px;
+	height: 50px;
+}   
+    
+.comm_text {
+	width: 80%;
+} 
+    
+.comm_text .com_top_area {
+	font-size: 13px;
+} 
+    
+.comm_text h5 {
+	font-size: 14px;
+} 
+    
+.comm_text p {
+	font-size: 13px;
+} 
+    
+.comm_bottom h3 {
+	font-size: 15px;
+}   
+
+.comm_bottom h6 {
+	font-size: 12px;
+}
+     
+.comment_input .input_1, .comment_input .input_2, .comment_input .input_3, .comment_input textarea {
+    width: 100%;
+	border-radius: 5px;
+	margin-top: 20px;
+}  
+    
+.comment_input .form-check label {
+	font-size: 13px;
+}   
+    
+.blog_right {
+	margin-top: 40px;
+}  
+  
+.tag_link li:nth-child(3) a, .tag_link li:nth-child(6) a {
+	margin-right: 10px;
+}
+    
+.recent_post .tag_link li a {
+	padding: 7px 11px;
+	margin-right: 12px;
+	margin-bottom: 5px;
+	font-size: 12px;
+}  
+    
+.card_img .user_img {
+	width: 150px;
+	height: 150px;
+	float: left;
+    margin-right: 20px;
+}  
+    
+.card_img .sign {
+	margin-top: 20px;
+	margin-bottom: 20px;
+} 
+    
+.recent_post {
+	margin-top: 40px;
+}  
+    
+.single_post .single_img {
+	width: 25%;
+	margin-right: 10px;
+}    
+/***********************
+  BLOG DETAILS END
+************************/  
+    
+    
+/***********************
+    FAQS PAGE START
+************************/
+#accordion {
+	padding-top: 35px;
+}
+    
+#accordion .accordion_img {
+	margin-top: 40px;
+} 
+    
+#accordion .heading_area {
+	margin-bottom: 39px;
+}
+    
+.accordion_area .accordion-button {
+	font-size: 15px;
+}  
+    
+#accordion .accordion-body {
+	font-size: 16px;
+}     
+/***********************
+    FAQS PAGE END
+************************/
+
+   
+    
+        
+/***********************
+    LOGIN PAGE START
+************************/
+#logon {
+	padding-top: 60px;
+}
+    
+.login_form {
+	margin-bottom: 40px;
+}
+    
+/***********************
+    LOGIN PAGE END
+************************/ 
+    
+    
+    
+    
+    
+/***********************
+  PRICING PAGE START
+************************/
+#member_pricing {
+	padding-top: 35px;
+	margin-bottom: -30px;
+}
+    
+#member_pricing .price_btn {
+	margin-bottom: 35px;
+}  
+    
+.member_price {
+	margin-bottom: 30px;
+}  
+/***********************
+  PRICING PAGE END
+************************/
+
+    
+    
+/***********************
+ TESTIMONIAL PAGE START
+************************/
+.review_page {
+	padding-top: 60px !important;
+}    
+    
+.review_page .heading_area {
+	margin-bottom: 35px !important;
+}
+         
+/***********************
+  TESTIMONIAL PAGE END
+************************/
+ 
+    
+    
+/***********************
+  USER PAGE START
+************************/
+#user {
+	padding-top: 60px;
+}
+    
+#pagination {
+	display: block;
+}  
+    
+#pagination p {
+	margin-bottom: 20px;
+	text-align: center;
+}
+    
+#pagination .page-link {
+	padding: 3px 7px;
+	font-size: 14px !important;
+} 
+    
+.pagination {
+	justify-content: center;
+}   
+    
+/***********************
+  USER PAGE END
+************************/
+ 
+    
+    
+    
+/***********************
+  USER 2 PAGE START
+************************/
+
+#user_2 {
+	padding-top: 60px;
+}
+    
+.user_2_bottom {
+	margin-left: 15px;
+}
+    
+.user_2_bottom li {
+	float: left;
+	margin: 0px 5px;
+	margin-top: 20px;
+}
+    
+.user2_topbar {
+	display: none;
+}   
+    
+/***********************
+  USER 2 PAGE END
+************************/  
+    
+    
+    
+    
+    
+/***********************
+  USER DETAILS 2 START
+************************/
+    
+    
+/*===================
+  USER MENU START
+=====================*/ 
+.side_menu_2 {
+	width: 75px !important;
+	padding: 10px 20px !important;
+	transform: scaleX(1) !important;
+	margin-left: -75px;
+} 
+    
+.side_menu_2 .user_img img {
+	width: 35px;
+	height: 35px;
+}  
+    
+.side_menu.side_menu_2.\.menu_slide.\.show_menu_2 {
+	margin-left: 0px;
+}     
+/*===================
+  USER MENU END
+=====================*/ 
+    
+    
+.user_details_2 {
+	padding-top: 60px;
+	padding-bottom: 0px;
+}
+    
+.user_2 {
+	margin-bottom: 40px;
+}   
+    
+.service_2 {
+	padding-top: 0px;
+}
+    
+    
+.experience_2 .border_area {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}    
+    
+.user_about_2 {
+	padding-top: 10px !important;
+	margin-bottom: 60px;
+}
+    
+.about_img {
+	margin-top: 30px;
+}
+   
+/*
+.single_bar {
+    margin-top: 30px;
+} 
+*/
+/***********************
+  USER DETAILS 2 END
+************************/  
+    
+    
+    
+    
+    
+/***********************
+  USER DETAILS 3 START
+************************/ 
+    
+/*===================
+  USER MENU START
+=====================*/ 
+    
+.side_menu {
+	width: 90%;
+	height: 100vh;
+	padding: 10px 20px;
+	transform: scaleX(0);
+} 
+    
+.side_menu .close_icon {
+	opacity: 1;
+} 
+    
+.user_img {
+	text-align: left;
+}   
+    
+.user_img img {
+	width: 100px;
+	height: 100px;
+}
+    
+.side_menu .side_menu_link {
+	margin-left: 0px;
+}  
+    
+.menu_icon {
+	top: 10px;
+	left: 10px;
+	border: 1px solid #fff;
+}   
+/*===================
+  USER MENU END
+=====================*/ 
+    
+
+/*===================
+  USER BANNER START
+=====================*/ 
+#user_banner_area {
+	padding-bottom: 70px;
+	margin-bottom: 50px;
+}  
+    
+.user_banner img {
+	width: 160px;
+	height: 160px;
+}   
+    
+.user_banner h1 {
+	font-size: 35px;
+}   
+    
+.user_banner p {
+	font-size: 20px;
+}     
+/*===================
+  USER BANNER END
+=====================*/  
+
+    
+/*===================
+  USER ABOUT START
+=====================*/ 
+    
+.user_about_img {
+	margin-bottom: 38px;
+}
+    
+.user_counter {
+	margin-top: 32px;
+}   
+/*===================
+  USER ABOUT END
+=====================*/  
+    
+    
+    
+/*===================
+  USER SERVICE START
+=====================*/ 
+#user_service {
+	padding: 60px 0px 23px 0px;
+} 
+  
+#user_service .heading_area {
+	margin-bottom: 35px;
+}   
+    
+.user_single_ser .user_icon i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+}  
+    
+.user_content h4 {
+	font-size: 16px;
+}  
+    
+.user_content p {
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 7px;
+}    
+/*===================
+  USER SERVICE END
+=====================*/  
+    
+    
+/*===================
+  USER RESUME START
+=====================*/ 
+#user_resume {
+	padding-top: 60px;
+}
+    
+#user_resume .heading_area {
+	margin-bottom: -28px;
+} 
+    
+.resume_area .single_heading {
+	font-size: 20px;
+	margin-top: 40px;
+}  
+    
+.resume_column {
+	padding: 20px;
+	margin-top: 20px;
+} 
+    
+.resume_column h5 {
+	font-size: 16px;
+}   
+    
+.resume_column p {
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}    
+/*===================
+  USER RESUME END
+=====================*/  
+
+    
+/*===================
+ USER PORTFOLIO START
+=====================*/ 
+#user_portfolio {
+	padding: 60px 0px;
+}
+    
+#user_portfolio .heading_area {
+	margin-bottom: 25px;
+}  
+    
+.user_single_portfolio {
+	margin-top: 20px;
+}     
+/*===================
+ USER PORTFOLIO END
+=====================*/       
+    
+    
+/*===================
+USER TESTMONIAL START
+=====================*/ 
+#user_testimonial {
+	padding: 55px 0px 80px 0px;
+}
+    
+.user_testi_img {
+	width: 100%;
+	text-align: center;
+	padding-left: 20px;
+	display: flex;
+	justify-content: center;
+}
+
+.user_testi_img img {
+	width: 150px;
+	height: 150px;
+	margin-top: 0;
+}
+    
+.user_testi_img .quot_bott {
+	font-size: 40px;
+	bottom: 0px;
+	left: 200px;
+}
+    
+.user_testi_img .quot_top {
+	font-size: 40px;
+    right: 175px;
+}  
+  
+.user_clients_text {
+	width: 100%;
+	padding: 20px;
+}
+    
+.user_clients_text p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-size: 14px;
+} 
+    
+#user_testimonial .slick-dots {
+	position: absolute;
+	left: 0;
+	bottom: -20px;
+	display: flex !important;
+}  
+/*===================
+USER TESTMONIAL END
+=====================*/  
+    
+    
+    
+/*===================
+  USER MENU START
+=====================*/ 
+#user_blog {
+	padding-top: 60px;
+	padding-bottom: 50px;
+} 
+    
+#user_blog .heading_area {
+	margin-bottom: -24px;
+}    
+   
+.single_blog p {
+	font-size: 13px;
+}  
+/*===================
+  USER MENU END
+=====================*/  
+    
+    
+    
+/*===================
+  USER CONTACT START
+=====================*/
+#user_contact {
+	padding-bottom: 60px;
+} 
+    
+.user_soingle_input {
+	width: 100%;
+}
+    
+.user_contact_add {
+	padding-top: 40px;
+}   
+/*===================
+  USER CONTACT END
+=====================*/  
+        
+    
+    
+/*===================
+  USER FOOTER START
+=====================*/ 
+.user_footer .only_mar {
+	margin-top: 60px;
+}   
+    
+.user_footer_link {
+	display: block;
+	text-align: center;
+}
+
+.user_footer_link ul {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}  
+/*===================
+   USER FOOTER END
+=====================*/  
+/***********************
+  USER DETAILS 3 END
+************************/    
+
+
+
+
+/***********************
+   GALLERY PAGE START
+************************/    
+#gallery{
+	padding-top: 60px;
+}
+
+.portfolio_filter {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.portfolio_filter button {
+	padding: 7px 15px;
+	margin: 0px 3px;
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+
+/***********************
+   GALLERY PAGE END
+************************/    
+
+
+
+
+
+
+    
+.contact_box_icon {
+	width: 30%;
+	padding: 55px;
+}
+
+.contact_box {
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+#wsus__service_details {
+	padding-top: 70px;
+}
+
+.pro_summery {
+	margin-top: 50px;
+}
+
+.wsus__service_right_details_text h4 {
+	font-size: 25px;
+}
+
+.wsus__service_right_details_text .accordion_area h3 {
+	font-size: 25px;
+}
+
+.wsus__service_video h3 {
+	font-size: 25px;
+}
+
+.wsus__service_right_details_text .accordion_area .accordion-button {
+	font-size: 16px;
+}
+
+
+
+  
+} /*========================*/
+
+
+
+
+
+
+@media (max-width: 575px) {
+  
+/******************************
+       HOME PAGE START 
+*******************************/ 
+/*===================
+    MENU START
+=====================*/
+.main_menu {
+	height: 60px;
+	border-bottom: 1px solid #2046DA;
+}
+    
+.right_menu {
+	justify-content: center;
+	width: 100%;
+} 
+    
+.main_menu .navbar-brand {
+	margin-left: 15px;
+} 
+    
+.main_menu .navbar-toggler {
+	outline: 0;
+	margin-right: 15px;
+	border: 1px solid #2046DA;
+	padding: 3px 7px 5px 7px;
+	color: #2046DA;
+	border-radius: 3px;
+}
+    
+.navbar-toggler:focus {
+	box-shadow: none;
+}  
+    
+.main_menu #navbarSupportedContent {
+	background: #fff;
+	padding: 15px 0px;
+	text-align: center;
+	margin-top: 8px;
+}
+.dropdown-menu.show {
+	display: block;
+	margin-right: 25px;
+}  
+    
+.dropdown-menu.show {
+	margin-left: -107px;
+}    
+/*===================
+    MENU END
+=====================*/
+    
+    
+    
+    
+/*===================
+    BANNER START
+=====================*/ 
+#banner {
+	padding: 65px 0px 115px 0px;
+}
+    
+.banner_text {
+	text-align: center;
+} 
+    
+.banner_text h1 {
+	font-size: 30px;
+}  
+    
+.banner_text p {
+	font-size: 18px;
+	margin: 24px 0px 36px 0px;
+} 
+    
+.banner_text a {
+	margin-bottom: 20px;
+}   
+    
+.common_btn {
+	font-size: 14px;
+	padding: 14px 20px;
+}
+ 
+.banner_text .common_btn{
+    margin-bottom: 20px;
+} 
+    
+.banner_img {
+	margin-top: 40px;
+}  
+/*===================
+    BANNER END
+=====================*/    
+    
+    
+    
+        
+    
+    
+    
+/*===================
+    WORK START
+=====================*/ 
+
+#work_part {
+	padding: 20px 0px 57px 0px;
+}   
+    
+.work_text {
+	margin-top: 40px;
+}  
+    
+.small_heading {
+	text-align: center;
+} 
+    
+.medium_heading {
+	font-size: 25px;
+	text-align: center;
+	margin: 20px 0px 25px 0px;
+}
+    
+.read_btn {
+	font-size: 13px;
+	padding: 8px 15px;
+}  
+    
+/*===================
+    WORK END
+=====================*/    
+    
+    
+    
+        
+    
+    
+    
+/*===================
+  CARD PART START
+=====================*/ 
+ #card_part {
+	padding: 58px 0px 40px 0px;
+}   
+    
+.card_area {
+	margin-top: 15px;
+}   
+  
+/*===================
+  CARD PART END
+=====================*/    
+    
+    
+      
+/*===================
+  PROFILE START
+=====================*/    
+ #profile_part {
+	padding: 60px 0px 30px 0px;
+}
+    
+#profile_part .heading_area {
+	margin-bottom: 40px;
+}  
+     
+/*===================
+  PROFILE END
+=====================*/    
+        
+    
+      
+/*===================
+    PRICING  START
+=====================*/    
+#pricing_part {
+	padding-bottom: 30px;
+}   
+    
+#pricing_part .nav-tabs {
+	margin-bottom: 40px;
+}
+    
+#pricing_part .nav-tabs .nav-link {
+	font-size: 13px;
+} 
+    
+.single_price {
+	margin-bottom: 30px;
+}    
+/*===================
+    PRICING  END
+=====================*/    
+        
+    
+    
+      
+/*===================
+  TESTIMONIAL START
+=====================*/ 
+#testimonial {
+	padding: 60px 0px 90px 0px;
+}
+    
+.clients_img {
+	position: static;
+	width: 20%;
+	margin: 0 auto;
+	padding: 0;
+}
+ 
+.clients_text {
+	text-align: center;
+	margin: 0px 16px;
+	margin-top: 35px;
+} 
+    
+.clients_text p {
+	font-size: 14px;
+} 
+    
+.clients_text h3 {
+	margin: 20px 0px 16px 0px;
+}  
+    
+#testimonial .slick-dots {
+	position: absolute;
+	left: 80%;
+	bottom: -35px;
+	display: flex !important;
+}  
+    
+#testimonial .slick-dots li button {
+	width: 15px;
+	height: 5px;
+}  
+/*===================
+  TESTIMONIAL END
+=====================*/    
+        
+    
+      
+/*===================
+  BLOG PART START
+=====================*/     #blog_part {
+	padding: 57px 0px 0px 0px;
+	padding-bottom: 0px !important;
+}
+       
+.blog_area {
+	margin-top: -15px;
+}
+    
+.single_blog {
+	margin-top: 30px;
+} 
+    
+/*===================
+  BLOG PART END
+=====================*/ 
+    
+    
+    
+/*===================
+  SUBSCRIBE PART START
+=====================*/ 
+#subscribe {
+	padding-top: 58px;
+}
+    
+.subscribe_bg {
+	padding: 15px;
+}
+    
+.subs_text h3 {
+	font-size: 18px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+}  
+    
+.subs_text h3::after {
+	height: 3px;
+	top: 0px;
+}
+
+.subs_form form input {
+	padding: 10px 20px;
+}   
+    
+.subs_form form button {
+	padding: 8px 10px;
+}   
+/*===================
+  SUBSCRIBE PART END
+=====================*/    
+        
+    
+    
+
+      
+/*===================
+   FOOTER   START
+=====================*/    
+footer {
+	background: url(../images/small_footer_bg.png);
+	padding-top: 53px;
+	margin-top: 60px;
+}
+    
+footer h3 {
+	margin-bottom: 17px;
+	font-size: 17px;
+}
+    
+.footer_text {
+	margin-bottom: 40px;
+	overflow: hidden;
+} 
+    
+.footer_link li {
+	margin-bottom: 7px;
+}  
+   
+.footer_bottom p {
+	font-size: 14px;
+}   
+    
+.footer_bottom {
+	margin-top: 7px;
+	padding: 10px 0px;
+}
+    
+.foot_mar {
+	padding-top: 137px;
+}  
+/*===================
+    FOOTER   END
+=====================*/    
+/******************************
+       HOME PAGE END 
+*******************************/
+    
+    
+    
+    
+/******************************
+    USER DETAILS PAGE START 
+*******************************/
+    
+/*===================
+   USER MENU 1 START
+=====================*/ 
+    
+.user_menu1 .single_user_img img {
+	width: 45px;
+	height: 45px;
+	margin-left: 10px;
+	margin-top: 2px;
+}  
+      
+.user_menu1 .navbar-toggler {
+	margin-left: auto;
+	color: #fff;
+	border-color: #fff;
+}
+    
+.user_menu1 {
+	height: 60px;
+	border-bottom: 1px solid #fff;
+	width: 100%;
+	padding: 5px 0px 10px 0px;
+}
+    
+.user_menu1 #navbarSupportedContent {
+	background: #0077b6;
+	border-top: 1px solid #fff;
+	margin-top: 7px;
+}
+    
+.user_menu1 ul li {
+	margin-bottom: 10px;
+} 
+
+/*===================
+   USER MENU 1 START
+=====================*/  
+    
+    
+    
+    
+    
+/*===================
+   BREADCRUMB START
+=====================*/  
+.bread_overlay {
+	padding: 54px 0px 38px 0px;
+}
+    
+#breadcrumb_part h4 {
+	font-size: 25px;
+}
+    
+#breadcrumb_part nav {
+	margin-top: 20px;
+}  
+    
+#breadcrumb_part li {
+	font-size: 14px;
+}  
+    
+.breadcrumb-item + .breadcrumb-item::before {
+	padding-left: 6px;
+	padding-right: 15px;
+}    
+    
+/*===================
+   BREADCRUMB END
+=====================*/ 
+    
+    
+        
+/*===================
+  USER DETAILS END
+=====================*/
+#user_details {
+	padding: 60px 0px;
+}
+
+.user_area {
+	padding: 0px;
+	padding-top: 25px;
+}
+
+.user_text h4 {
+	font-size: 25px;
+}
+    
+.user_text {
+	padding: 10px;
+	margin-top: 10px;
+}
+.user_line {
+	font-size: 15px;
+}
+    
+.user_line .user_bold {
+	width: 32.5%;
+}     
+/*===================
+  USER DETAILS END
+=====================*/ 
+    
+    
+    
+    
+/*===================
+   USER ABOUT START
+=====================*/ 
+#user_about {
+	padding: 11px 0px 50px 0px;
+}     
+    
+.about_text {
+	margin-top: 58px;
+	text-align: center;
+}
+    
+.about_text_middel {
+	position: static;
+	transform: translate(0);
+}
+    
+.about_text p {
+	margin-top: 29px;
+} 
+    
+.about_img {
+	margin-top: -30px;
+}
+      
+/*===================
+   USER ABOUT END
+=====================*/ 
+    
+.about {
+	padding: 0px 0px 60px 0px !important;
+} 
+    
+.about .about_img {
+	margin-top: 35px;
+}   
+    
+        
+    
+    
+/*===================
+ USER EXP_SKILL START
+=====================*/     #user_exp_skill {
+	padding: 0px 0px 30px 0px;
+}
+    
+.user_exp {
+	text-align: center;
+	margin-bottom: 30px;
+} 
+    
+.user_exp p span {
+	margin-bottom: 20px;
+} 
+    
+#user_exp_skill h4 {
+	text-align: center;
+} 
+    
+.barfiller {
+	margin-bottom: 25px;
+}   
+    
+    
+/*===================
+ USER EXP_SKILL END
+=====================*/ 
+    
+        
+    
+    
+/*===================
+   SERVICE START
+=====================*/     
+#service .heading_area {
+	margin-bottom: 33px;
+}
+    
+.single_service {
+	padding: 25px;
+	text-align: center;
+    margin-bottom: 30px;
+}  
+    
+.single_service span {
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+	line-height: 80px;
+	margin: 0 auto;
+}  
+    
+.single_service p {
+	font-size: 15px;
+}
+/*===================
+   SERVICE END
+=====================*/ 
+    
+        
+    
+    
+/*===================
+   EXPERIENCE START
+=====================*/     
+#experience {
+	padding: 30px 0px 50px 0px;
+} 
+    
+#experience .heading_area {
+	margin-bottom: -10px;
+}   
+    
+.exp_text .read_btn {
+	font-size: 16px;
+	margin-top: 24px;
+} 
+  
+.single_exp h5 {
+	margin: 23px 0px 18px 0px;
+} 
+    
+.single_exp h3 {
+	font-size: 16px;
+} 
+    
+.single_exp p {
+	font-size: 15px;
+}     
+/*===================
+   EXPERIENCE END
+=====================*/ 
+    
+        
+    
+    
+/*===================
+  PORTFOLIO START
+=====================*/     
+#portfolio .heading_area {
+	margin-bottom: 40px;
+} 
+/*===================
+  PORTFOLIO END
+=====================*/ 
+    
+    
+            
+    
+    
+/*===================
+  REVIEW START
+=====================*/     
+#review {
+	padding-top: 29px;
+	padding-bottom: 43px;
+}
+    
+#review .heading_area {
+	margin-bottom: 22px;
+}   
+    
+.single_review i {
+	font-size: 30px;
+}   
+    
+.single_review p {
+	font-size: 15px;
+}   
+    
+#review .slick-dots {
+	display: flex !important;
+	justify-content: center;
+	left: 0;
+	bottom: -46px;
+}   
+   
+.single_review_2 {
+	box-shadow: 8px 8px 0px 0px #07123b;
+}  
+    
+/*===================
+  REVIEW END
+=====================*/ 
+    
+    
+            
+    
+    
+/*===================
+  BLOG START
+=====================*/     
+    
+#blog_part .heading_area {
+	margin-bottom: 20px;
+}
+/*===================
+  BLOG END
+=====================*/ 
+    
+    
+            
+    
+    
+/*===================
+  GET IN TOUCH START
+=====================*/     
+#get_in_touch {
+	padding-bottom: 0;
+	margin-top: 60px;
+}
+    
+#get_in_touch .heading_area {
+	margin-bottom: 34px;
+}  
+    
+.ger_in_area input, 
+.ger_in_area textarea {
+	padding: 10px;
+	font-size: 14px;
+}  
+    
+.user_contact {
+	padding-top: 0px;
+}  
+    
+/*===================
+  GET IN TOUCH END
+=====================*/ 
+    
+/******************************
+    USER DETAILS PAGE END 
+*******************************/ 
+    
+    
+    
+    
+    
+    
+/***********************
+  BLOG PAGE START
+************************/
+#blog_page {
+	padding-top: 60px;
+}
+
+    
+#blog_page .heading_area {
+	margin-bottom: -30px;
+}  
+    
+/***********************
+  BLOG PAGE END
+************************/
+
+    
+    
+    
+    
+/***********************
+  BLOG DETAILS START
+************************/
+#blog_details {
+	padding-top: 60px;
+}
+   
+.block_business_img {
+	display: block;
+	overflow: hidden;
+} 
+    
+.blog_business img {
+	margin-bottom: 30px;
+	margin-right: 0;
+}
+    
+.blog_business ul li {
+	font-size: 13px;
+}  
+    
+.left_btn_area span {
+	font-size: 13px;
+	padding: 10px 15px;
+}
+    
+.share_blog h4 {
+	font-size: 18px;
+}
+    
+.share_link li a {
+	font-size: 13px;
+	padding: 5px 12px;
+	margin-bottom: 10px;
+}
+    
+.single_comment .comm_img {
+	width: 20%;
+}    
+    
+.single_comment .comm_img img {
+	width: 50px;
+	height: 50px;
+}   
+    
+.comm_text {
+	width: 80%;
+} 
+    
+.comm_text .com_top_area {
+	font-size: 13px;
+} 
+    
+.comm_text h5 {
+	font-size: 14px;
+} 
+    
+.comm_text p {
+	font-size: 13px;
+} 
+    
+.comm_bottom h3 {
+	font-size: 15px;
+}   
+
+.comm_bottom h6 {
+	font-size: 12px;
+}
+     
+.comment_input .input_1, .comment_input .input_2, .comment_input .input_3, .comment_input textarea {
+    width: 100%;
+	border-radius: 5px;
+	margin-top: 20px;
+}  
+    
+.comment_input .form-check label {
+	font-size: 13px;
+}   
+    
+.blog_right {
+	margin-top: 40px;
+}  
+  
+.tag_link li:nth-child(3) a, .tag_link li:nth-child(6) a {
+	margin-right: 10px;
+}
+    
+.recent_post .tag_link li a {
+	padding: 7px 11px;
+	margin-right: 12px;
+	margin-bottom: 5px;
+	font-size: 12px;
+} 
+
+.recent_post {
+	margin-top: 40px;
+}
+    
+.blockquot p {
+	font-size: 14px;
+}   
+    
+/***********************
+  BLOG DETAILS END
+************************/
+
+    
+    
+    
+    
+    
+        
+/***********************
+    FAQS PAGE START
+************************/
+#accordion {
+	padding-top: 35px;
+}
+    
+#accordion .accordion_img {
+	margin-top: 30px;
+}
+    
+#accordion .heading_area {
+	margin-bottom: 39px;
+}
+    
+.accordion_area .accordion-button {
+	font-size: 13px;
+}   
+    
+#accordion .accordion-body {
+	font-size: 14px;
+}        
+/***********************
+    FAQS PAGE END
+************************/
+
+    
+        
+/***********************
+    LOGIN PAGE START
+************************/
+#logon {
+	padding-top: 60px;
+}
+    
+.login_form {
+	padding: 40px 40px 20px 40px;
+	margin-bottom: 40px;
+}
+    
+/***********************
+    LOGIN PAGE END
+************************/
+
+    
+    
+    
+    
+/***********************
+  PRICING PAGE START
+************************/
+#member_pricing {
+	padding-top: 35px;
+	margin-bottom: -30px;
+}
+    
+#member_pricing .price_btn {
+	margin-bottom: 35px;
+}  
+    
+.member_price {
+	margin-bottom: 30px;
+}  
+/***********************
+  PRICING PAGE END
+************************/
+
+      
+    
+    
+    
+    
+/***********************
+ TESTIMONIAL PAGE START
+************************/
+.review_page {
+	padding-top: 60px !important;
+}    
+    
+.review_page .heading_area {
+	margin-bottom: 35px !important;
+}
+         
+/***********************
+  TESTIMONIAL PAGE END
+************************/
+
+      
+    
+    
+              
+/***********************
+  USER PAGE START
+************************/
+#user {
+	padding-top: 60px;
+}
+    
+#pagination {
+	display: block;
+}  
+    
+#pagination p {
+	margin-bottom: 20px;
+	text-align: center;
+}
+    
+#pagination .page-link {
+	padding: 3px 7px;
+	font-size: 14px !important;
+}   
+/***********************
+  USER PAGE END
+************************/
+    
+    
+    
+    
+/***********************
+  USER 2 PAGE START
+************************/   
+#user_2 {
+	padding-top: 60px;
+}
+      
+.user_2_bottom {
+	margin-left: 20px;
+}   
+    
+.user2_topbar {
+	display: none !important;
+}  
+/***********************
+  USER 2 PAGE END
+************************/
+
+      
+    
+    
+     
+/***********************
+  USER DETAILS 2 START
+************************/
+    
+/*===================
+  USER MENU START
+=====================*/ 
+.side_menu_2 {
+	width: 75px !important;
+	padding: 10px 20px !important;
+	transform: scaleX(1) !important;
+	margin-left: -75px;
+} 
+    
+.side_menu_2 .user_img img {
+	width: 35px;
+	height: 35px;
+}  
+    
+.side_menu.side_menu_2.\.menu_slide.\.show_menu_2 {
+	margin-left: 0px;
+}     
+/*===================
+  USER MENU END
+=====================*/ 
+    
+.user_details_2 {
+	padding-top: 60px;
+	padding-bottom: 65px;
+}
+    
+.user_2 {
+	margin-bottom: 40px;
+}   
+    
+.service_2 {
+	padding-top: 0px;
+}  
+    
+.experience_2 .border_area {
+	margin-top: 30px;
+	margin-bottom: 10px;
+} 
+    
+/*
+.single_bar {
+    margin-top: 30px;
+} 
+*/
+/***********************
+  USER DETAILS 2 END
+************************/    
+    
+     
+    
+    
+    
+    
+/***********************
+  USER DETAILS 3 START
+************************/ 
+    
+/*===================
+  USER MENU START
+=====================*/ 
+    
+.side_menu {
+	width: 90%;
+	height: 100vh;
+	padding: 10px 20px;
+	transform: scaleX(0);
+} 
+    
+.side_menu .close_icon {
+	opacity: 1;
+} 
+    
+.user_img {
+	text-align: left;
+}   
+    
+.user_img img {
+	width: 100px;
+	height: 100px;
+}
+    
+.side_menu .side_menu_link {
+	margin-left: 0px;
+}  
+    
+.menu_icon {
+	top: 10px;
+	left: 10px;
+	border: 1px solid #fff;
+}   
+/*===================
+  USER MENU END
+=====================*/ 
+    
+
+/*===================
+  USER BANNER START
+=====================*/ 
+#user_banner_area {
+	padding-bottom: 70px;
+	margin-bottom: 50px;
+}
+    
+.user_banner img {
+	width: 160px;
+	height: 160px;
+}   
+    
+.user_banner h1 {
+	font-size: 35px;
+}   
+    
+.user_banner p {
+	font-size: 20px;
+}     
+/*===================
+  USER BANNER END
+=====================*/  
+
+    
+/*===================
+  USER ABOUT START
+=====================*/ 
+    
+.user_about_img {
+	margin-bottom: 38px;
+}
+    
+.user_counter {
+	margin-top: 32px;
+}   
+/*===================
+  USER ABOUT END
+=====================*/  
+    
+    
+    
+/*===================
+  USER SERVICE START
+=====================*/ 
+#user_service {
+	padding: 60px 0px 23px 0px;
+} 
+  
+#user_service .heading_area {
+	margin-bottom: 35px;
+}   
+    
+.user_single_ser .user_icon i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+}  
+    
+.user_content h4 {
+	font-size: 16px;
+}  
+    
+.user_content p {
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 7px;
+}    
+/*===================
+  USER SERVICE END
+=====================*/  
+    
+    
+/*===================
+  USER RESUME START
+=====================*/ 
+#user_resume {
+	padding-top: 60px;
+}
+    
+#user_resume .heading_area {
+	margin-bottom: -28px;
+} 
+    
+.resume_area .single_heading {
+	font-size: 20px;
+	margin-top: 40px;
+}  
+    
+.resume_column {
+	padding: 20px;
+	margin-top: 20px;
+} 
+    
+.resume_column h5 {
+	font-size: 16px;
+}   
+    
+.resume_column p {
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}    
+/*===================
+  USER RESUME END
+=====================*/  
+
+    
+    
+    
+/*===================
+ USER PORTFOLIO START
+=====================*/ 
+#user_portfolio {
+	padding: 60px 0px;
+}
+    
+#user_portfolio .heading_area {
+	margin-bottom: 25px;
+}  
+    
+.user_single_portfolio {
+	margin-top: 20px;
+}     
+/*===================
+ USER PORTFOLIO END
+=====================*/       
+    
+    
+/*===================
+USER TESTMONIAL START
+=====================*/ 
+#user_testimonial {
+	padding: 55px 0px 80px 0px;
+}
+    
+.user_testi_img {
+	width: 100%;
+	text-align: center;
+	padding-left: 20px;
+	display: flex;
+	justify-content: center;
+}
+
+.user_testi_img img {
+	width: 150px;
+	height: 150px;
+	margin-top: 0;
+}
+    
+.user_testi_img .quot_bott {
+	font-size: 40px;
+	bottom: 0px;
+	left: 100px;
+}
+    
+.user_testi_img .quot_top {
+	font-size: 40px;
+}  
+  
+.user_clients_text {
+	width: 100%;
+	padding: 20px;
+}
+    
+.user_clients_text p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-size: 14px;
+} 
+    
+#user_testimonial .slick-dots {
+	position: absolute;
+	left: 0;
+	bottom: -20px;
+	display: flex !important;
+}  
+/*===================
+USER TESTMONIAL END
+=====================*/  
+    
+    
+    
+/*===================
+  USER MENU START
+=====================*/ 
+#user_blog {
+	padding-top: 60px;
+	padding-bottom: 50px;
+} 
+    
+#user_blog .heading_area {
+	margin-bottom: -24px;
+}    
+   
+.single_blog p {
+	font-size: 13px;
+}  
+/*===================
+  USER MENU END
+=====================*/  
+    
+    
+    
+/*===================
+  USER CONTACT START
+=====================*/
+#user_contact {
+	padding-bottom: 60px;
+} 
+    
+.user_soingle_input {
+	width: 100%;
+}
+    
+.user_contact_add {
+	padding-top: 40px;
+}   
+/*===================
+  USER CONTACT END
+=====================*/  
+        
+    
+    
+/*===================
+  USER FOOTER START
+=====================*/ 
+.user_footer_link {
+	display: block;
+	text-align: center;
+}
+
+.user_footer_link ul {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}  
+    
+.user_footer .only_mar {
+	margin-top: 60px;
+}     
+/*===================
+   USER FOOTER END
+=====================*/  
+    
+/***********************
+  USER DETAILS 3 END
+************************/    
+
+
+
+
+
+
+/***********************
+   GALLERY PAGE START
+************************/    
+#photo_gallery {
+	padding-top: 100px;
+}
+
+.portfolio_filter {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.portfolio_filter button {
+	padding: 7px 15px;
+	margin: 0px 3px;
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+
+#video_gallery{
+padding-top: 100px;
+}
+
+/***********************
+   GALLERY PAGE END
+************************/    
+
+
+
+
+
+
+
+/***********************
+PROJECT DETAILS END
+************************/    
+#wsus__service_details{
+	padding-top: 70px;
+}
+
+.wsus__service_right_details_text h4 {
+	font-size: 25px;
+}
+
+.wsus__service_right_details_text p span {
+	font-size: 17px;
+}
+
+.wsus__service_right_details_text .accordion_area h3 {
+	font-size: 25px;
+}
+
+.wsus__service_right_details_text .accordion_area .accordion-button {
+	font-size: 16px;
+}
+
+.wsus__service_video h3 {
+	font-size: 25px;
+}
+
+.pro_summery {
+	margin-top: 45px;
+}
+
+
+
+
+
+/***********************
+PROJECT DETAILS END
+************************/    
+
+
+
+
+
+
+    
+.contact_box_icon {
+	width: 25%;
+	padding: 20px 27px;
+}
+
+.contact_box_icon i {
+	font-size: 20px;
+}
+
+.contact_box_text {
+	width: 85%;
+	padding: 0px 0px;
+}
+.contact_box_text a, .contact_box_text p {
+	font-size: 16px;
+}
+
+.contact_box {
+	margin-bottom: 30px;
+}
+
+.ger_in_area {
+	margin-top: 20px;
+}
+
+.contact_map {
+	margin-top: 70px;
+}
+    
+    
+}/*========================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

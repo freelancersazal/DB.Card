@@ -1,0 +1,11 @@
+===Update 2===
+
+1. Added scroll button on all pages.
+2. Added the updated version of Jquery.
+3. Change Counter Jquery Plugin. 
+4. Change header footer & HTML strecture on user details 2 page.
+
+
+
+
+
